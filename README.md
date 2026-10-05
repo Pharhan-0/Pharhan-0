@@ -86,6 +86,25 @@ Hi, I'm **Pharhan**, a B.Tech CSE student at **Lovely Professional University** 
 
 </div>
 
+## 🚀 Projects
+
+<div align="center">
+
+<a href="https://github.com/Pharhan-0/FileSense">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pharhan-0&repo=FileSense&theme=tokyonight&hide_border=true&border_radius=12" alt="FileSense" />
+</a>
+<a href="https://github.com/Pharhan-0/Indian-Cancer-Analytics">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pharhan-0&repo=Indian-Cancer-Analytics&theme=tokyonight&hide_border=true&border_radius=12" alt="Indian Cancer Analytics" />
+</a>
+<a href="https://github.com/Pharhan-0/Indian-Air-Quality-PowerBI-Audit">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pharhan-0&repo=Indian-Air-Quality-PowerBI-Audit&theme=tokyonight&hide_border=true&border_radius=12" alt="Indian Air Quality PowerBI Audit" />
+</a>
+<a href="https://github.com/Pharhan-0/comparative-energy-efficient-cpu-scheduling-algorithm">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pharhan-0&repo=comparative-energy-efficient-cpu-scheduling-algorithm&theme=tokyonight&hide_border=true&border_radius=12" alt="CPU Scheduling Algorithm" />
+</a>
+
+</div>
+
 ## 💡 Fun Facts
 
 - 🧩 I enjoy problems where the solution actually helps someone in real life

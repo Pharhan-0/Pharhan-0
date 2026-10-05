@@ -120,7 +120,23 @@ Hi, I'm **Pharhan**, a B.Tech CSE student at **Lovely Professional University** 
 ## 💡 Fun Facts
 
 - 🧩 I enjoy problems where the solution actually helps someone in real life
-- 🇩🇪 Currently picking up German, one *Wörter* at a time
+- 🗣️ Currently picking up German, one *Wörter* at a time
 - 📚 Always learning something new, usually with a project attached
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:4f46e5&height=120&section=footer" width="100%" alt="footer" />
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pharhan-haque"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:pharhanhaque@email.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Pharhan-0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+*Open to internships and collaborations in AI/ML, data science and software development.*
+
+</div>
+
+<br/>

@@ -20,7 +20,6 @@ Hi, I'm **Pharhan**, a B.Tech CSE student at **Lovely Professional University** 
 - 🔭 Currently building projects in **AI/ML**, **software development**, and **data science**
 - 📊 Exploring **machine learning**, **data analysis**, and **real-world datasets**
 - 🌱 Strengthening my **data structures and algorithms**
-- 🇩🇪 Learning **German** as an open minor
 - 📫 Reach me at **pharhanhaque@email.com**
 
 ## 🎯 What I Work On

@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pharhan%20Anzum%20Haque&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20Data%20Science%20%7C%20Software%20Development&descSize=16&descAlignY=58" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:06b6d4&height=300&section=header&text=Pharhan%20Anzum%20Haque&fontSize=64&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Software%20Developer&descSize=20&descAlignY=62" alt="header" />
 
 <a href="https://github.com/Pharhan-0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C6CF0&center=true&vCenter=true&width=600&lines=Building+projects+that+solve+real-life+problems;B.Tech+CSE+%40+LPU+%7C+Data+Science+Minor;Turning+data+into+insights;Learning+Deutsch+too+%F0%9F%87%A9%F0%9F%87%AA" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=Turning+data+into+decisions+%F0%9F%93%8A;Building+intelligent+systems+%F0%9F%A4%96;Writing+clean%2C+efficient+code+%F0%9F%92%BB;Solving+real-life+problems+through+projects+%F0%9F%8C%8D;B.Tech+CSE+%40+LPU+%7C+Data+Science+Minor+%F0%9F%8E%93;Currently+learning+Deutsch" alt="typing animation" />
+  
 </a>
 
 </div>
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Pharhan-0&label=Profile%20Views&color=7C6CF0&style=flat-square" alt="profile views" />
@@ -57,9 +59,37 @@ Hi, I'm **Pharhan**, a B.Tech CSE student at **Lovely Professional University** 
 | <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" /> | <img src="https://img.shields.io/badge/DAX-E66C37?style=flat-square" alt="DAX" /> | <img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" /> |
 | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> | <img src="https://img.shields.io/badge/Azure%20Maps-0078D4?style=flat-square" alt="Azure Maps" /> | <img src="https://img.shields.io/badge/Problem%20Solving-7C6CF0?style=flat-square" alt="Problem Solving" /> |
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=Pharhan-0&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&border_radius=12&custom_title=Pharhan's%20GitHub%20Stats" alt="GitHub stats" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pharhan-0&layout=donut&theme=tokyonight&hide_border=true&hide=html,css&langs_count=6&border_radius=12" alt="Top languages" />
+
 </div>
+
+</div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Pharhan-0&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+
+</div>
+
+## 📊 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pharhan-0&bg_color=0d1117&color=a78bfa&line=7c3aed&point=06b6d4&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph&title_color=a78bfa" width="95%" alt="Activity graph" />
+
+</div>
+
 ## 💡 Fun Facts
 
 - 🧩 I enjoy problems where the solution actually helps someone in real life
 - 🇩🇪 Currently picking up German, one *Wörter* at a time
 - 📚 Always learning something new, usually with a project attached
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:4f46e5&height=120&section=footer" width="100%" alt="footer" />

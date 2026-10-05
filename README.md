@@ -31,43 +31,33 @@ Hi, I'm **Pharhan**, a B.Tech CSE student at **Lovely Professional University** 
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,c,py&theme=dark" alt="languages" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" alt="Spyder" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="Maven" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" height="48" />
 
-**AI/ML & Data Science**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn&theme=dark" alt="data science" />
-<br/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="matplotlib" />
-<img src="https://img.shields.io/badge/Seaborn-7C6CF0?style=for-the-badge&logoColor=white" alt="seaborn" />
+| 📊 Data Science | 📈 BI & Analytics | ☕ Java & Libraries |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> | <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" /> | <img src="https://img.shields.io/badge/JavaFX-5382A1?style=flat-square&logo=openjdk&logoColor=white" alt="JavaFX" /> |
+| <img src="https://img.shields.io/badge/Seaborn-7C6CF0?style=flat-square" alt="Seaborn" /> | <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=flat-square&logoColor=black" alt="Power Query" /> | <img src="https://img.shields.io/badge/Apache%20PDFBox-D22128?style=flat-square&logo=apache&logoColor=white" alt="PDFBox" /> |
+| <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" /> | <img src="https://img.shields.io/badge/DAX-E66C37?style=flat-square" alt="DAX" /> | <img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" /> |
+| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> | <img src="https://img.shields.io/badge/Azure%20Maps-0078D4?style=flat-square" alt="Azure Maps" /> | <img src="https://img.shields.io/badge/Problem%20Solving-7C6CF0?style=flat-square" alt="Problem Solving" /> |
 
-**Data Visualization & BI**
-
-<img src="https://skillicons.dev/icons?i=powerbi&theme=dark" alt="power bi" />
-<br/>
-<img src="https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="power query" />
-<img src="https://img.shields.io/badge/DAX-E66C37?style=for-the-badge&logoColor=white" alt="dax" />
-<img src="https://img.shields.io/badge/Azure%20Maps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure maps" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="mysql" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" />
-
-**Frameworks & Libraries**
-
-<img src="https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=openjdk&logoColor=white" alt="javafx" />
-<img src="https://img.shields.io/badge/Apache%20PDFBox-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="pdfbox" />
-<img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="junit" />
-
-**IDEs & Developer Tools**
-
-<img src="https://skillicons.dev/icons?i=idea,git,github,maven&theme=dark" alt="tools" />
-<br/>
-<img src="https://img.shields.io/badge/Spyder-B22222?style=for-the-badge&logo=spyder&logoColor=white" alt="spyder" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" />
-
+</div>
 ## 💡 Fun Facts
 
 - 🧩 I enjoy problems where the solution actually helps someone in real life

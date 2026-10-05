@@ -7,3 +7,31 @@
 </a>
 
 </div>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Pharhan-0&label=Profile%20Views&color=7C6CF0&style=flat-square" alt="profile views" />
+
+</div>
+
+## 👋 About Me
+
+Hi, I'm **Pharhan**, a B.Tech CSE student at **Lovely Professional University** with a **Data Science minor**. I like building projects that solve real-life problems, from desktop tools to data analytics dashboards.
+
+- 🔭 Currently building projects in **AI/ML**, **software development**, and **data science**
+- 📊 Exploring **machine learning**, **data analysis**, and **real-world datasets**
+- 🌱 Strengthening my **data structures and algorithms**
+- 🇩🇪 Learning **German** as an open minor
+- 📫 Reach me at **pharhanhaque@email.com**
+
+## 🎯 What I Work On
+
+| 🤖 AI / ML | 📊 Data Science & Analytics | 💻 Software Development |
+|---|---|---|
+| Machine learning models and predictive modelling | Data cleaning, analysis and visualization | Desktop and application development |
+| Learning how intelligent systems work | Turning raw data into insights | Data structures and efficient algorithms |
+
+## 💡 Fun Facts
+
+- 🧩 I enjoy problems where the solution actually helps someone in real life
+- 🇩🇪 Currently picking up German, one *Wörter* at a time
+- 📚 Always learning something new, usually with a project attached

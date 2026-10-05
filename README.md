@@ -78,11 +78,11 @@ Hi, I'm **Pharhan**, a B.Tech CSE student at **Lovely Professional University** 
 
 </div>
 
-## 📊 Activity Graph
+## 🧊 3D Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pharhan-0&bg_color=0d1117&color=a78bfa&line=7c3aed&point=06b6d4&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph&title_color=a78bfa" width="95%" alt="Activity graph" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
 
 </div>
 
